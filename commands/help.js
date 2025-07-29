@@ -9,53 +9,50 @@ async function helpCommand(sock, chatId, message) {
    Version: *${settings.version || '2.0.5'}*
    by ${settings.botOwner || 'Mr Unique Hacker'}
    YT : ${global.ytch}
-╚═══════════════════╝
-
-*Available Commands:*
-
+╚══════════════════
 ╔═══════════════════╗
 🌐 *General Commands*:
 ║ ➤ .help or .menu
 ║ ➤ .ping
 ║ ➤ .alive
 ║ ➤ .tts <text>
-║ ➤ .owner
-║ ➤ .joke
-║ ➤ .quote
-║ ➤ .fact
-║ ➤ .weather <city>
-║ ➤ .news
-║ ➤ .attp <text>
-║ ➤ .lyrics <song_title>
-║ ➤ .8ball <question>
-║ ➤ .groupinfo
-║ ➤ .staff or .admins 
-║ ➤ .vv
-║ ➤ .trt <text> <lang>
-║ ➤ .ss <link>
-║ ➤ .jid
+║ 🙁 .owner
+║ 🤣.joke
+║ 🤔.quote
+║ 😁 .fact
+║ 🥶.weather <city>
+║ 💀.news
+║ 🥴 .attp 
+║ 💯.lyrics 
+║ 🥹 .8ball 
+║ 😚 .groupinfo
+║ 😊 .staff or .admins 
+║ 👌.vv
+║ 🤪 .trt 
+║🥹☺️.ss 
+║ 🫴 .jid
 ╚═══════════════════╝ 
 
 ╔═══════════════════╗
 👮‍♂️ *Admin Commands*:
-║ ➤ .ban @user
-║ ➤ .promote @user
-║ ➤ .demote @user
-║ ➤ .mute <minutes>
-║ ➤ .unmute
-║ ➤ .delete or .del
-║ ➤ .kick @user
-║ ➤ .warnings @user
-║ ➤ .warn @user
-║ ➤ .antilink
-║ ➤ .antibadword
-║ ➤ .clear
-║ ➤ .tag <message>
-║ ➤ .tagall
-║ ➤ .chatbot
-║ ➤ .resetlink
-║ ➤ .welcome <on/off>
-║ ➤ .goodbye <on/off>
+║ 💢 .ban @user
+║ ✨ .promote @user
+║ 🙀.demote @user
+║ 🌟 .mute <minutes>
+║ 😽 .unmute
+║ ⭐🌟.delete or .del
+║ 😻 .kick @user
+║ 💤 .warnings @user
+║ 🙊 .warn @user
+║ 🕳️ .antilink
+║ 🔥 .antibadword
+║ 🌚 .clear
+║ 👽 .tag <message>
+║ 👾 .tagall
+║ 🤖 .chatbot
+║ ✨ .resetlink
+║ 💞🤎 .welcome <on/off>
+║ 💯 .goodbye <on/off>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -67,9 +64,8 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .cleartmp
 ║ ➤ .setpp <reply to image>
 ║ ➤ .autoreact
-╚═══════════════════╝
-
-╔═══════════════════╗
+╚═══════════════════╝lyrical
+╔═══════════════════╗😁😁😁😁😁
 🎨 *Image/Sticker Commands*:
 ║ ➤ .blur <image>
 ║ ➤ .simage <reply to sticker>
@@ -79,7 +75,6 @@ async function helpCommand(sock, chatId, message) {
 ║ ➤ .take <packname> 
 ║ ➤ .emojimix <emj1>+<emj2>
 ╚═══════════════════╝  
-
 ╔═══════════════════╗
 🎮 *Game Commands*:
 ║ ➤ .tictactoe @user
